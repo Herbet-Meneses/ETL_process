@@ -1,5 +1,7 @@
 # ETL_process
 
+![681546984630128640](https://github.com/Herbet-Meneses/ETL_process/assets/142064420/89088686-47f1-4c0d-afab-6d15db7e35c4)
+
 This straightforward piece of code creates an ETL (Extract, Transform, Load) pipeline for the extraction of data from a JSON file, its transformation to meet specific business needs, and the loading of the transformed data into a CSV file for subsequent manipulation by data teams.
 
 """
